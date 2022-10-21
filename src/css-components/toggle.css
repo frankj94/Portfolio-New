@@ -1,0 +1,42 @@
+input[type="checkbox"] {
+    /* visibility: hidden; */
+}
+
+/* label {
+    display: block;
+    width: 2.2em;
+    height: 1.45em;
+    background-color: #477a85;
+    position: relative;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 0.5s;
+    box-shadow: 0 0 20px #477a8550;
+}
+
+label::after {
+    content: "";
+    width: 1em;
+    height: 1em;
+    background-color: #e8f5f7;
+    position: absolute;
+    cursor: pointer;
+    top: 13%;
+    right: 43%;
+    border-radius: 1em;
+    transition: 0.5s;
+}
+
+input:checked+label:after {
+    left: calc(10% + 5px);
+    transform: translateX(50%);
+}
+
+ input:checked+label {
+     background-color: #243d42;
+ }
+
+
+label:active:after {
+    width: 10px;
+} */

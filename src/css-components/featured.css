@@ -1,0 +1,18 @@
+.featured-main {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    margin: 3em
+}
+
+.card-text {
+    color: black;
+}
+
+.card-title {
+    color: black;
+}
